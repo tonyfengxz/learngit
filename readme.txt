@@ -1,2 +1,2 @@
-fig --global user.name "Your Name"
+me "Your Name"
 nfig --global user.email "email@example.com"
