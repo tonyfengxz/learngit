@@ -1,2 +1,2 @@
-$ git config --global user.name "Your Name"
-$ git config --global user.email "email@example.com"
+fig --global user.name "Your Name"
+nfig --global user.email "email@example.com"
