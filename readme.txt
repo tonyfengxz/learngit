@@ -1,4 +1,4 @@
-4444444444444444 Name"
+555555555555555555555Name"
 nfig --global user.email "email@example.com"
 
 但如果能看看具体修改了什么内容，自然是很好的。比如你休假两周从国外回来，第一天上班时，已经记不清上次怎么修改的readme.txt，所以，需要用git diff这个命令看看：
